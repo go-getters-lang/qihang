@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <title>我的第一个HTML页面</title>
+  </head>
+  <body>
+    <h1>欢迎来到我的网页</h1>
+    <p>这是一个简单的HTML示例。</p>
+    <img src="https://picsum.photos/400/200" alt="示例图片">
+    <a href="https://www.baidu.com">点击访问百度</a>
+  </body>
+</html>
